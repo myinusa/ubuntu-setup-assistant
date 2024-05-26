@@ -1,7 +1,5 @@
 # Ubuntu Setup Assistant
 
-Simplify your Ubuntu setup with this post-installation script designed for Ubuntu 20.04 and later versions. Featuring a user-friendly menu, it allows you to choose from various categories like editors, development tools, and system monitoring utilities. Save time and ensure a consistent environment across your systems.
-
 ## Description
 
 The Ubuntu Setup Assistant is a Bash script that automates the installation of software packages on Ubuntu systems. It categorizes software into groups such as editors, development tools, and system monitoring utilities, allowing users to easily select and install multiple packages at once. This tool is particularly useful for users setting up a new Ubuntu installation and looking to quickly configure their environment with their preferred tools.
